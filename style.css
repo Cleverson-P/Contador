@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(36, 36, 79, 0.592);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: solid 2px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+#dados{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#botão{
+    width: 100px;
+    background-color: rgba(4, 178, 4, 0.542);
+}
+#res{
+    color: darkgoldenrod;
+
+}
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+input{
+    border-radius:  5px;
+}
