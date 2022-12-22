@@ -29,9 +29,11 @@ section{
 
 }
 footer{
+    margin-top: 380px;
     display: flex;
     justify-content: center;
     color: white;
+    
 }
 input{
     border-radius:  5px;
